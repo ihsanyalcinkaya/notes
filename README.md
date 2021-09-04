@@ -1,7 +1,8 @@
 ## Notes to myself
 
 ### Displaylink on Ubuntu
-Sometimes the kernel release and the evdi release, that is in the displaylink driver, do not match. Therefore, displaylink does not work on Ubuntu. In this case; 
+Sometimes the kernel release and the evdi release, that is in the displaylink driver, do not match. Therefore, displaylink does not work on Ubuntu. In this case;  
+
 1- Remove the displaylink driver. [link](https://support.displaylink.com/knowledgebase/articles/683699-how-to-uninstall-displaylink-ubuntu-software)
 ```
 sudo displaylink-installer uninstall
